@@ -1,0 +1,26 @@
+<projectDescription>
+  <id>1395624186798</id>
+  <name>test</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/game-netease/AppData/Local/Adobe/Flash CS5/zh_CN/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/game-netease/AppData/Local/Adobe/Flash CS5/zh_CN/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///E|/intern/task2/test/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="ParticlesDemo.fla">file:///E|/intern/task2/test/ParticlesDemo.fla</uri>
+    <uri label="AuthortimeSharedAssets.fla">file:///E|/intern/task2/test/AuthortimeSharedAssets.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="ParticlesDemo.fla">file:///E|/intern/task2/test/ParticlesDemo.fla</uri>
+    <uri label="ParticlesDemo.swf">file:///E|/intern/task2/test/ParticlesDemo.swf</uri>
+    <uri label="ParticlesDemo.as">file:///E|/intern/task2/test/ParticlesDemo.as</uri>
+    <uri label="FPS.as">file:///E|/intern/task2/test/FPS.as</uri>
+    <uri label="FireEmitter.as">file:///E|/intern/task2/test/example/FireEmitter.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
